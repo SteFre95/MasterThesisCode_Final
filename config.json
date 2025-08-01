@@ -1,0 +1,14 @@
+{
+    "client_id": "",
+    "client_secret": "",
+    "user_agent": "",
+    "limit": 1000,
+    "subreddit": "Switzerland",
+    "query_terms": ["economy", "economic", "finance", "financial", "banking", "GDP", "inflation", "growth",
+                   "employment", "recession", "cost of living", "Swiss economy", "Swiss Franc", "CHF",
+                   "Swiss banking", "UBS", "SMI"],
+    "sorting_methods": ["relevance", "hot", "new", "top", "comments"],
+    "sample_size": 100,
+    "start_year": 2008,
+    "reset_db": true
+}
