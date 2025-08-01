@@ -94,7 +94,7 @@ async def run_bertopic(posts_by_year: dict):
     all_bertopic_results = {}
 
     for year, posts in posts_by_year.items():
-        if len(posts) < 5:
+        if len(posts) < 10:
             print(f"Skipping BERTopic for {year} due to insufficient posts.")
             continue
 

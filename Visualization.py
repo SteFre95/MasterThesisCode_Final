@@ -94,7 +94,7 @@ def plot_sentiment_analysis(df: pd.DataFrame, avg_vader: float, avg_finbert: flo
     # Titles & legends
     plt.title("Sentiment Analysis Results of r/Switzerland Posts on the Economy",
               fontsize=14, fontweight="bold")
-    plt.xticks(rotation=45)
+    plt.xticks(df["year"], rotation=45)
 
     # Combine both legends
     handles1, labels1 = ax1.get_legend_handles_labels()

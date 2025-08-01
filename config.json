@@ -4,7 +4,8 @@
     "user_agent": "...",
     "limit": 1000,
     "subreddit": "Switzerland",
-    "query_terms": [
+    "query_terms":
+    [
       "economy", "inflation", "GDP", "finance", "banking", "SNB", "UBS", "Credit Suisse", "employment",
       "unemployment", "taxation", "cost of living", "Swiss Franc", "recession", "wages", "salary",
       "job market", "rent", "real estate", "housing market", "interest rates", "exchange rate", "forex",
