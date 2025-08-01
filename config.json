@@ -8,7 +8,7 @@
       "economy", "inflation", "GDP", "finance", "banking", "SNB", "UBS", "Credit Suisse", "employment",
       "unemployment", "taxation", "cost of living", "Swiss Franc", "recession", "wages", "salary",
       "job market", "rent", "real estate", "housing market", "interest rates", "exchange rate", "forex",
-      "SMI", "Swiss companies", "Swiss banking", "real estate", "housing market", "rent"
+      "SMI", "Swiss companies", "Swiss banking"
     ],
     "sorting_methods": ["relevance", "hot", "new", "top", "comments"],
     "sample_size": 100,
