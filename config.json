@@ -1,12 +1,15 @@
 {
-    "client_id": "",
-    "client_secret": "",
-    "user_agent": "",
+    "client_id": "...",
+    "client_secret": "...",
+    "user_agent": "...",
     "limit": 1000,
     "subreddit": "Switzerland",
-    "query_terms": ["economy", "economic", "finance", "financial", "banking", "GDP", "inflation", "growth",
-                   "employment", "recession", "cost of living", "Swiss economy", "Swiss Franc", "CHF",
-                   "Swiss banking", "UBS", "SMI"],
+    "query_terms": [
+      "economy", "inflation", "GDP", "finance", "banking", "SNB", "UBS", "Credit Suisse", "employment",
+      "unemployment", "taxation", "cost of living", "Swiss Franc", "recession", "wages", "salary",
+      "job market", "rent", "real estate", "housing market", "interest rates", "exchange rate", "forex",
+      "SMI", "Swiss companies", "Swiss banking", "real estate", "housing market", "rent"
+    ],
     "sorting_methods": ["relevance", "hot", "new", "top", "comments"],
     "sample_size": 100,
     "start_year": 2008,
